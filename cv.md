@@ -118,12 +118,15 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 10,648,877 Mechanical strain-based weather sensor  
 10,632,464 Microfluidic devices and related methods  
 10,590,462 Probes and assays for measuring E3 ligase activity  
-10,590,142 Deuterated amlexanox  
 10,501,535 Antibody targeting stem cell factor  
 10,380,886 Connected automated vehicle highway systems and methods  
+10,329,603 Recombinase polymerase amplification
+10,259,781 Imaging agents
 10,172,920 Sleep apnea treatment  
 10,036,013 Next-generation sequencing libraries  
+9,944,652 Deuterated amlexanox  
 9,353,178 Stem cell factor inhibitor
+9,931,412 Targeted theranostics
 
 ###Research Presentations
 
