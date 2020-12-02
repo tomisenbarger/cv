@@ -127,7 +127,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 10,172,920 Sleep apnea treatment  
 10,036,013 Next-generation sequencing libraries  
 9,944,652 Deuterated amlexanox  
-9,353,178 Stem cell factor inhibitor
+9,353,178 Stem cell factor inhibitor  
 9,931,412 Targeted theranostics
 
 ###Research Presentations
