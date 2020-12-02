@@ -5,5 +5,5 @@
 [Honors](cv.md#Honors-&-Awards)
 [Publications](cv.md#Publications)
 [Patents](cv.md#Representative-patents-drafted-and-prosecuted)\
-[Presentations](cv.md#Research Presentations)
-[Expertise](cv.md#Skills-&Areas-of-Expertise)
+[Presentations](cv.md#Research-Presentations)
+[Expertise](cv.md#Skills-&-Areas-of-Expertise)
