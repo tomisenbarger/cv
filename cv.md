@@ -1,7 +1,6 @@
 ##Thomas A Isenbarger JD PhD
 Registered United States Patent Attorney  
 Madison, WI  
-mail me
 
 updated 2 December 2020
 
@@ -28,48 +27,48 @@ United States Patent and Trademark Office
 
 ###Legal Work Experience
 
-Casimir Jones SC  
+**Casimir Jones SC**  
 Shareholder, 2018-present  
 Associate Attorney, September 2010–2018
 
-University of Wisconsin Law School Law & Entrepreneurship Clinic  
+**University of Wisconsin Law School Law & Entrepreneurship Clinic**  
 Member, 2009–2010
 
-Foley & Lardner LLP  
+**Foley & Lardner LLP**  
 Summer Associate, Intellectual Property, summers of 2008 & 2009
 
 
 ###Scientific Research Experience
 
-University of Wisconsin Departments of Bacteriology and Plant Pathology  
+**University of Wisconsin Departments of Bacteriology and Plant Pathology**  
 Postdoctoral Scientist, 2004–2007  
 Research Advisor: Jo Handelsman  
 Culture-independent analysis of a hypersaline microbial mat community  
 Metagenomics of soil and insect gut microbial communities
 
-Harvard Medical School Department of Genetics and
-Massachusetts General Hospital Department of Molecular Biology  
+**Harvard Medical School Department of Genetics and
+Massachusetts General Hospital Department of Molecular Biology**  
 Postdoctoral Fellow, 2001–2004  
 Research Advisor: Gary Ruvkun  
 [SETG](http://setg.mit.edu): the Search for Extraterrestrial Genomes  
 Identification and analysis of small RNAs involved in stem cell-mediated regeneration
 
-University of Wisconsin Department of Biomolecular Chemistry  
+**University of Wisconsin Department of Biomolecular Chemistry**  
 Postdoctoral Scientist, 2001  
 Research Advisor: Robert H. Fillingame  
 Structural studies of E. coli F1F0 ATP synthase subunit a
 
-University of Wisconsin Department of Biomolecular Chemistry  
+**University of Wisconsin Department of Biomolecular Chemistry**  
 Doctoral Research, 1994–2001  
 Research Advisor: Mark P. Krebs  
 Thermodynamic stability of membrane protein oligomerization
 
-University of Notre Dame Department of Biological Sciences  
+**University of Notre Dame Department of Biological Sciences**  
 Undergraduate Research, 1994  
 Research Advisor: Joseph E. O’Tousa, Ph.D.  
 Creation of rhodopsin mutants in Drosophila melanogaster
 
-U.S. Granules Corporation, Plymouth, IN  
+**U.S. Granules Corporation**, Plymouth, IN  
 Summer Intern, 1990–1994  
 Computer programmer; Technician and Chemist in quality assurance laboratory
 
