@@ -156,21 +156,24 @@ Howard Hughes Medical Institute International Symposium: New Approaches to Membr
 
 ###Skills & Areas of Expertise
 
-Mastery of UNIX and X11 bioinformatics tools, Perl, molecular modeling  
-Experience developing applications in OOP environments (REALBasic, Visual Basic, R)  
-Genomics  
-Molecular genetics  
-Metagenomic library construction and screening  
-Extensive use and development of nucleic acid amplification techniques  
-Natural products discovery with a focus on antibiotic discovery  
+Genomics and metagenomics  
+Molecular genetics   
+Bioinformatics  
+CRISPR  
+Nucleic acid amplification  
+Natural products discovery  
 Culture-independent identification and analysis of microbes  
-DNA sequencing (including familiarity with 2nd- and 3rd-generation sequencing technologies)  
+Phylogenics and molecular evolution
+Nucleic acid and protein diagnostics  
+Nucleic acid sequencing  
 Microfluidics  
+Medical imaging  
 RNA interference  
-Green fluorescent protein  
 FACS  
 Spectroscopy (CD, UV/Vis)  
 X-ray diffraction  
 Detergents  
 Membrane protein structure  
 Vector design and construction  
+Mastery of UNIX and X11 bioinformatics tools, perl, molecular modeling  
+Experience developing applications in OOP environments (REALBasic, Visual Basic, R) 
