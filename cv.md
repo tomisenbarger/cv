@@ -162,18 +162,20 @@ Bioinformatics
 CRISPR  
 Nucleic acid amplification  
 Natural products discovery  
+Therapeutic use of psychedelic drugs
 Culture-independent identification and analysis of microbes  
 Phylogenics and molecular evolution
 Nucleic acid and protein diagnostics  
 Nucleic acid sequencing  
 Microfluidics  
-Medical imaging  
-RNA interference  
-FACS  
+Medical imaging and radiation therapy
+Antibodies and biologics
+Plant breeding
+RNA interference    
 Spectroscopy (CD, UV/Vis)  
 X-ray diffraction  
 Detergents  
-Membrane protein structure  
+Protein structure  
 Vector design and construction  
-Mastery of UNIX and X11 bioinformatics tools, perl, molecular modeling  
+UNIX and X11 bioinformatics tools, perl, molecular modeling  
 Experience developing applications in OOP environments (REALBasic, Visual Basic, R) 
