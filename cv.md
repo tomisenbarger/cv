@@ -11,10 +11,15 @@ updated January 18, 2021
 **J.D.**, University of Wisconsin Law School  
 May 2010, magna cum laude (GPA 3.73/4.0, top 4%)  
 Articles Editor, Wisconsin Law Review  
-Order of the Coif
+Order of the Coif  
+ABA-BNA Award for Excellence In the Study of Intellectual Property Law  
+Wisconsin State Bar/UW Law School Academic Achievement Award for Constitutional Law  
+Dean’s List (for all semesters eligible)  
+Dean’s Academic Achievement Award  
 
 **Ph.D.**, University of Wisconsin Department of Biomolecular Chemistry  
-May 2001 (GPA 4.0/4.0)
+May 2001 (GPA 4.0/4.0)  
+
 
 **B.S.**, Biochemistry, University of Notre Dame  
 May 1994, summa cum laude (GPA 3.9/4.0, class rank 8)
