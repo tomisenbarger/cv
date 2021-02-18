@@ -2,7 +2,7 @@
 Registered United States Patent Attorney  
 Madison, WI  
 
-updated December 31, 2020
+updated January 18, 2021
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
 
@@ -70,29 +70,8 @@ Undergraduate Research, 1994
 Research Advisor: Joseph E. O’Tousa, Ph.D.  
 Creation of rhodopsin mutants in Drosophila melanogaster
 
-**U.S. Granules Corporation**, Plymouth, IN  
-Summer Intern, 1990–1994  
-Computer programmer; Technician and Chemist in quality assurance laboratory
 
-
-###Honors & Awards
-
-ABA-BNA Award for Excellence In the Study of Intellectual Property Law  
-Wisconsin State Bar/UW Law School Academic Achievement Award for Constitutional Law  
-Finalist (top 5) for University of Wisconsin Law School best student brief competition  
-University of Wisconsin Law School Dean’s List (for all semesters eligible)  
-University of Wisconsin Law School Dean’s Academic Achievement Award  
-
-National Institutes of Health Ruth Kirschstein NRSA Postdoctoral Fellowship  
-National Institutes of Health Molecular Biophysics Graduate Training Grant  
-National Science Foundation Graduate Fellowship  
-University of Wisconsin Medical School Garvin Cremer Scholarship  
-Wisconsin Alumni Research Foundation Student Fellowship  
-University of Notre Dame Outstanding Biochemistry Student, Class of 1994  
-Indiana Basketball Hall of Fame Scholarship  
-
-
-###Publications
+###Publications (h-index 8; i10-index 8)
 
 Isenbarger, T.A., In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents, Wisconsin Law Review 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
