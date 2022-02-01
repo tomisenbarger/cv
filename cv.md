@@ -2,7 +2,7 @@
 Registered United States Patent Attorney  
 Madison, WI  
 
-updated January 18, 2021
+updated February 1, 2022
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
 
@@ -97,6 +97,9 @@ Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assem
 Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice. Biochemistry 38(28): 9023–9030 (1999). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10413475/)  
 
 ###Representative patents drafted and prosecuted  
+11,224,584 Sleep apnea treatment
+11,174,326 Polymerization photoinhibitor
+10,918,673 Immunoisolation device
 10,851,423 SNP arrays  
 10,751,324 Treatment of TNF-alpha cytotoxicity  
 10,704,091 Genotyping by next-generation sequencing  
@@ -108,7 +111,6 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 10,380,886 Connected automated vehicle highway systems and methods  
 10,329,603 Recombinase polymerase amplification
 10,259,781 Imaging agents
-10,172,920 Sleep apnea treatment  
 10,036,013 Next-generation sequencing libraries  
 9,944,652 Deuterated amlexanox  
 9,353,178 Stem cell factor inhibitor  
