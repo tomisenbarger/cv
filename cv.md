@@ -2,7 +2,7 @@
 Registered United States Patent Attorney  
 Madison, WI  
 
-updated February 1, 2022
+updated May 25, 2022
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
 
