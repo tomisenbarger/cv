@@ -116,7 +116,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 9,353,178 Stem cell factor inhibitor  
 9,931,412 Targeted theranostics
 
-###Research Presentations
+###Presentations
 
 Applied and Environmental Microbiology Gordon Conference, July 2005, New London, CT  
 “Accessing the Functional Diversity of Uncultured Soil Microorganisms by Metagenomics”
@@ -140,7 +140,7 @@ Howard Hughes Medical Institute International Symposium: New Approaches to Membr
 “Specific Packing Interactions Between Bacteriorhodopsin Monomers are Required for Purple Membrane Assembly” (Poster presentation)
 
 
-###Skills & Areas of Expertise
+###Areas of Expertise
 
 Genomics and metagenomics  
 Molecular genetics   
@@ -164,4 +164,4 @@ Detergents
 Protein structure  
 Vector design and construction  
 UNIX and X11 bioinformatics tools, perl, molecular modeling  
-Experience developing applications in OOP environments (REALBasic, Visual Basic, R) 
+Automated driving technologies  
