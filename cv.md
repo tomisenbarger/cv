@@ -151,21 +151,21 @@ Howard Hughes Medical Institute International Symposium: New Approaches to Membr
 ###Areas of Expertise
 
 Genomics and metagenomics  
-Molecular genetics   
+Molecular genetics  
 Bioinformatics  
 CRISPR  
 Nucleic acid amplification  
 Natural products discovery  
-Therapeutic use of psychedelic drugs
+Therapeutic use of psychedelic drugs  
 Culture-independent identification and analysis of microbes  
-Phylogenics and molecular evolution
+Phylogenics and molecular evolution  
 Nucleic acid and protein diagnostics  
 Nucleic acid sequencing  
 Microfluidics  
-Medical imaging and radiation therapy
-Antibodies and biologics
-Plant breeding
-RNA interference    
+Medical imaging and radiation therapy  
+Antibodies and biologics  
+Plant breeding  
+RNA interference  
 Spectroscopy (CD, UV/Vis)  
 X-ray diffraction  
 Detergents  
