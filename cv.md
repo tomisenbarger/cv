@@ -97,6 +97,7 @@ Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assem
 Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice. Biochemistry 38(28): 9023–9030 (1999). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10413475/)  
 
 ###Representative patents drafted and prosecuted  
+
 11,390,882 Expression vector  
 11,224,584 Sleep apnea treatment  
 11,174,326 Polymerization photoinhibitor  
