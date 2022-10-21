@@ -2,7 +2,7 @@
 Registered United States Patent Attorney  
 Madison, WI  
 
-updated May 25, 2022
+updated October 21, 2022
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
 
@@ -76,7 +76,7 @@ Research Advisor: Joseph E. O’Tousa, Ph.D.
 Creation of rhodopsin mutants in Drosophila melanogaster
 
 
-###Publications (h-index 8; i10-index 8)
+###Publications
 
 Isenbarger, T.A., In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents, Wisconsin Law Review 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
