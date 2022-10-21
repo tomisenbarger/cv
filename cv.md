@@ -119,7 +119,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 ###Presentations
 
 Agricultural Genome to Phenome Initiative Field Day, October 19, 2022, Virtual
-IP in Livestock and Plant Genetics & Breeding – Practital Patent Law for Scientists
+IP in Livestock and Plant Genetics & Breeding – Practical Patent Law for Scientists
 
 Applied and Environmental Microbiology Gordon Conference, July 2005, New London, CT  
 “Accessing the Functional Diversity of Uncultured Soil Microorganisms by Metagenomics”
