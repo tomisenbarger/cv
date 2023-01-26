@@ -82,7 +82,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals.* Accepted manuscript (2023)
 
-Isenbarger, T.A. In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
+Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
 Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. *PNAS* 106(28): 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
 
