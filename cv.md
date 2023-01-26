@@ -77,10 +77,11 @@ Creation of rhodopsin mutants in Drosophila melanogaster
 
 
 ###Publications
+Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The evolving role of history in the past, present, and future of psychedelic patenting, History of Pharmacy and Pharmaceuticals, accepted manuscript (2023)
 
 Isenbarger, T.A., In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents, Wisconsin Law Review 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
-Friedländer, M., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T., Hirst, M., Marra, M., Nusbaum, C., Lee, W., Jenkin, J., Sanchez Alvarado, A., Kim, J., Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs, PNAS 106(28): 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
+Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs, PNAS 106(28): 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
 
 Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets, Origins of Life and Evolution of Biospheres 38(6): 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)
 
