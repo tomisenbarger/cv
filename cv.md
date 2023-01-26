@@ -188,4 +188,4 @@ Detergents
 Protein structure  
 Vector design and construction  
 UNIX and X11 bioinformatics tools, perl, molecular modeling  
-Automated driving technologies  
+Automated driving technologies
