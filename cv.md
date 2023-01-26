@@ -1,9 +1,9 @@
 ##Thomas A Isenbarger JD PhD  
 
 Registered United States Patent Attorney  
-Madison, WI  
+Madison, Wisconsin, USA  
 
-updated January 26, 2023  
+Updated January 26, 2023  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -37,7 +37,7 @@ United States Patent and Trademark Office
 **Casimir Jones SC**  
 Senior Shareholder, 2022-present  
 Shareholder, 2018-2022  
-Associate Attorney, September 2010–2018  
+Associate Attorney, 2010–2018  
 [Casimir Jones Biography](https://www.casimirjones.com/attorney/thomas-a-isenbarger-j-d-ph-d/)
 
 **University of Wisconsin Law School Law & Entrepreneurship Clinic**  
