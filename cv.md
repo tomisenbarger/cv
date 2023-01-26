@@ -113,7 +113,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 11,224,584 Sleep apnea treatment  
 11,185,864 Sample Preparation Device  
 11,180,760 Identification Of Molecular Pathways And Methods Of Use Thereof For Treating Retinal Neurodegeneration And Other Neurodegenerative Disorders  
-11,174,326 Polymerization photoinhibitor 
+11,174,326 Polymerization photoinhibitor  
 11,160,875 Therapeutic Nanofiber Hydrogels For Local Treatment Of Brain-related Diseases  
 10,918,673 Immunoisolation device  
 10,851,423 SNP arrays  
