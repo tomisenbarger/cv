@@ -2,7 +2,7 @@
 Registered United States Patent Attorney  
 Madison, WI  
 
-updated October 21, 2022
+updated January 26, 2023
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
 
@@ -34,7 +34,9 @@ United States Patent and Trademark Office
 ###Legal Work Experience
 
 **Casimir Jones SC**  
-Shareholder, 2018-present  
+
+Senior Shareholder, 2022-present  
+Shareholder, 2018-2022  
 Associate Attorney, September 2010–2018  
 [Casimir Jones Biography](https://www.casimirjones.com/attorney/thomas-a-isenbarger-j-d-ph-d/)
 
@@ -78,17 +80,17 @@ Creation of rhodopsin mutants in Drosophila melanogaster
 
 ###Publications
 
-Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The evolving role of history in the past, present, and future of psychedelic patenting, History of Pharmacy and Pharmaceuticals, accepted manuscript (2023)
+Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The evolving role of history in the past, present, and future of psychedelic patenting. History of Pharmacy and Pharmaceuticals. Accepted manuscript (2023)
 
-Isenbarger, T.A., In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents, Wisconsin Law Review 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
+Isenbarger, T.A. In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents. Wisconsin Law Review 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
-Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs, PNAS 106(28): 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
+Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. PNAS 106(28): 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
 
-Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets, Origins of Life and Evolution of Biospheres 38(6): 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)
+Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets. Origins of Life and Evolution of Biospheres 38(6): 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)
 
-Isenbarger, T.A., Finney, M., Handelsman, J., & Ruvkun, G. Miniprimer PCR, a New Lens for Viewing the Microbial World, Appl. Environ. Microbiol. 74(3): 745–752 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083877/) 
+Isenbarger, T.A., Finney, M., Handelsman, J., & Ruvkun, G. Miniprimer PCR, a New Lens for Viewing the Microbial World. Appl. Environ. Microbiol. 74(3): 745–752 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083877/) 
 
-Isenbarger, T.A. The Bacteriorhodopsin Lattice as a Model for Quantifying Interactions that Stabilize Membrane Protein Complexes, Ph.D. dissertation (2001).
+Isenbarger, T.A. The Bacteriorhodopsin Lattice as a Model for Quantifying Interactions that Stabilize Membrane Protein Complexes. Ph.D. dissertation (2001).
 
 Isenbarger, T.A., & Krebs, M.P. Thermodynamic Stability of the Bacteriorhodopsin Lattice As Measured by Lipid Dilution. Biochemistry 40(39): 11923–11931 (2001). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11570893/) 
 
@@ -100,11 +102,19 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 ###Representative patents drafted and prosecuted  
 
-11,495,126 Systems And Methods For Driving Intelligence Allocation Between Vehicles And Highways    
+11,529,109 Patient Positioning Apparatus  
+11,495,126 Systems And Methods For Driving Intelligence Allocation Between Vehicles And Highways  
 11,436,923 Proactive Sensing Systems And Methods For Intelligent Road Infrastructure Systems  
-11,390,882 Expression vector  
+11,428,686 Membrane Assay Method  
+11,390,882 Expression vector 
+11,359,005 Supramolecular High Affinity Protein-binding System For Purification Of Biomacromolecules  
+11,295,449 Three-dimensional Tracking Of A Target In A Body  
+11,229,614 Supramolecular Hydrogel Applications To The Carotid Bodies To Treat Hypertension And Sleep Apnea In Obesity  
 11,224,584 Sleep apnea treatment  
-11,174,326 Polymerization photoinhibitor  
+11,185,864 Sample Preparation Device  
+11,180,760 Identification Of Molecular Pathways And Methods Of Use Thereof For Treating Retinal Neurodegeneration And Other Neurodegenerative Disorders  
+11,174,326 Polymerization photoinhibitor 
+11,160,875 Therapeutic Nanofiber Hydrogels For Local Treatment Of Brain-related Diseases  
 10,918,673 Immunoisolation device  
 10,851,423 SNP arrays  
 10,751,324 Treatment of TNF-alpha cytotoxicity  
@@ -120,36 +130,37 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 10,036,013 Next-generation sequencing libraries  
 9,944,652 Deuterated amlexanox  
 9,353,178 Stem cell factor inhibitor  
-9,931,412 Targeted theranostics
+9,931,412 Targeted theranostics  
+
 D960385 Lateral Flow Assay Reader Apparatus
 
 ###Presentations
 
-Agricultural Genome to Phenome Initiative Field Day, October 2022, Virtual
+Agricultural Genome to Phenome Initiative Field Day, October 2022, Live online (recording available)  
 "IP in Livestock and Plant Genetics & Breeding – Practical Patent Law for Scientists"
 
-Psychedelic Law Summit, September 2022, Virtual
-"Psychedelic Intellectual Property: Promoting innovation and ethically protecting IP in the psychedelics space"
+Psychedelic Law Summit, September 2022, Live online (recording available)  
+"Psychedelic Intellectual Property: Promoting Innovation and Ethically Protecting IP in the Psychedelics Space"
 
-Applied and Environmental Microbiology Gordon Conference, July 2005, New London, CT  
+Applied and Environmental Microbiology Gordon Conference, July 2005, New London, Connecticut  
 “Accessing the Functional Diversity of Uncultured Soil Microorganisms by Metagenomics”
 
 Japanese New Energy and Industrial Technology Development Organization (NEDO) Symposium on “The Collection of Genetic Resources of As Yet Uncultured Microorganisms”, November 2004, Tokyo, Japan  
 “Unculturable Bacteria in Microbial Communities from Soil and Insect Guts”
 
-Department of Biomolecular Chemistry Seminar Series, April 2000, Madison, WI  
+Department of Biomolecular Chemistry Seminar Series, April 2000, Madison, Wisconsin  
 “Bacteriorhodopsin As a Model for Quantifying the Interactions that Stabilize Membrane Protein Complexes”
 
-Department of Biomolecular Chemistry Seminar Series, October 1998, Madison, WI  
+Department of Biomolecular Chemistry Seminar Series, October 1998, Madison, Wisconsin  
 “Transmembrane Helix-Helix Interactions and Their Role in Bacteriorhodopsin Lattice Assembly”
 
-FASEB Summer Research Conference: Molecular Biophysics of Cellular Membranes, July 2000, Saxton’s River, VT  
+FASEB Summer Research Conference: Molecular Biophysics of Cellular Membranes, July 2000, Saxton’s River, Vermont  
 “Bacteriorhodopsin as a Model for Quantifying the Interactions that Stabilize Membrane Protein Complexes” (Poster presentation)
 
 Third European Symposium of the Protein Society, September 1999, Garmisch-Partenkirchen, Germany  
 “Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice” (Poster presentation)
 
-Howard Hughes Medical Institute International Symposium: New Approaches to Membrane Protein Structure and Function, August 1998, Madison, WI  
+Howard Hughes Medical Institute International Symposium: New Approaches to Membrane Protein Structure and Function, August 1998, Madison, Wisconsin    
 “Specific Packing Interactions Between Bacteriorhodopsin Monomers are Required for Purple Membrane Assembly” (Poster presentation)
 
 
@@ -161,7 +172,7 @@ Bioinformatics
 CRISPR  
 Nucleic acid amplification  
 Natural products discovery  
-Therapeutic use of psychedelic drugs  
+Therapeutic use of psychedelic compounds  
 Culture-independent identification and analysis of microbes  
 Phylogenics and molecular evolution  
 Nucleic acid and protein diagnostics  
