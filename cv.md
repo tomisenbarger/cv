@@ -1,16 +1,17 @@
-##Thomas A Isenbarger JD PhD
+##Thomas A Isenbarger JD PhD  
+
 Registered United States Patent Attorney  
 Madison, WI  
 
-updated January 26, 2023
+updated January 26, 2023  
 
-[LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
+[LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
 ###Education
 
 **J.D.**, University of Wisconsin Law School  
 May 2010, *magna cum laude* (GPA 3.73/4.0, top 4%)  
-Articles Editor, Wisconsin Law Review  
+Articles Editor, *Wisconsin Law Review*  
 Order of the Coif  
 ABA-BNA Award for Excellence In the Study of Intellectual Property Law  
 Wisconsin State Bar/UW Law School Academic Achievement Award for Constitutional Law  
@@ -34,7 +35,6 @@ United States Patent and Trademark Office
 ###Legal Work Experience
 
 **Casimir Jones SC**  
-
 Senior Shareholder, 2022-present  
 Shareholder, 2018-2022  
 Associate Attorney, September 2010–2018  
@@ -65,7 +65,7 @@ Identification and analysis of small RNAs involved in stem cell-mediated regener
 **University of Wisconsin Department of Biomolecular Chemistry**  
 Postdoctoral Scientist, 2001  
 Research Advisor: Robert H. Fillingame  
-Structural studies of E. coli F1F0 ATP synthase subunit a
+Structural studies of *E. coli* F1F0 ATP synthase subunit a
 
 **University of Wisconsin Department of Biomolecular Chemistry**  
 Doctoral Research, 1994–2001  
@@ -75,7 +75,7 @@ Thermodynamic stability of membrane protein oligomerization
 **University of Notre Dame Department of Biological Sciences**  
 Undergraduate Research, 1994  
 Research Advisor: Joseph E. O’Tousa, Ph.D.  
-Creation of rhodopsin mutants in Drosophila melanogaster
+Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 
 ###Publications
