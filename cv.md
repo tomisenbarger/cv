@@ -80,7 +80,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications
 
-Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The evolving role of history in the past, present, and future of psychedelic patenting. *History of Pharmacy and Pharmaceuticals.* Accepted manuscript (2023)
+Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals.* Accepted manuscript (2023)
 
 Isenbarger, T.A. In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
@@ -106,31 +106,31 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 11,495,126 Systems And Methods For Driving Intelligence Allocation Between Vehicles And Highways  
 11,436,923 Proactive Sensing Systems And Methods For Intelligent Road Infrastructure Systems  
 11,428,686 Membrane Assay Method  
-11,390,882 Expression vector 
+11,390,882 Expression Vector 
 11,359,005 Supramolecular High Affinity Protein-binding System For Purification Of Biomacromolecules  
 11,295,449 Three-dimensional Tracking Of A Target In A Body  
 11,229,614 Supramolecular Hydrogel Applications To The Carotid Bodies To Treat Hypertension And Sleep Apnea In Obesity  
-11,224,584 Sleep apnea treatment  
+11,224,584 Sleep Apnea Treatment  
 11,185,864 Sample Preparation Device  
 11,180,760 Identification Of Molecular Pathways And Methods Of Use Thereof For Treating Retinal Neurodegeneration And Other Neurodegenerative Disorders  
-11,174,326 Polymerization photoinhibitor  
+11,174,326 Polymerization Photoinhibitor  
 11,160,875 Therapeutic Nanofiber Hydrogels For Local Treatment Of Brain-related Diseases  
-10,918,673 Immunoisolation device  
-10,851,423 SNP arrays  
-10,751,324 Treatment of TNF-alpha cytotoxicity  
-10,704,091 Genotyping by next-generation sequencing  
-10,692,365 Intelligent road infrastructure system (IRIS): systems and methods  
-10,648,877 Mechanical strain-based weather sensor  
-10,632,464 Microfluidic devices and related methods  
-10,590,462 Probes and assays for measuring E3 ligase activity  
-10,501,535 Antibody targeting stem cell factor  
-10,380,886 Connected automated vehicle highway systems and methods  
-10,329,603 Recombinase polymerase amplification  
-10,259,781 Imaging agents  
-10,036,013 Next-generation sequencing libraries  
-9,944,652 Deuterated amlexanox  
-9,353,178 Stem cell factor inhibitor  
-9,931,412 Targeted theranostics  
+10,918,673 Immunoisolation Device  
+10,851,423 SNP Arrays  
+10,751,324 Treatment of TNF-alpha Cytotoxicity  
+10,704,091 Genotyping by Next-generation Sequencing  
+10,692,365 Intelligent Road Infrastructure System (IRIS): Systems and Methods  
+10,648,877 Mechanical Strain-based Weather Sensor  
+10,632,464 Microfluidic Devices and Related Methods  
+10,590,462 Probes and Assays for Measuring E3 Ligase Activity  
+10,501,535 Antibody Targeting Stem Cell Factor  
+10,380,886 Connected Automated Vehicle Highway Systems and Methods  
+10,329,603 Recombinase Polymerase Amplification  
+10,259,781 Imaging Agents  
+10,036,013 Next-generation Sequencing Libraries  
+9,944,652 Deuterated Amlexanox  
+9,353,178 Stem Cell Factor Inhibitor  
+9,931,412 Targeted Theranostics  
 
 D960385 Lateral Flow Assay Reader Apparatus
 
