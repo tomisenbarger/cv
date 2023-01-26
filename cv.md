@@ -77,6 +77,7 @@ Creation of rhodopsin mutants in Drosophila melanogaster
 
 
 ###Publications
+
 Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The evolving role of history in the past, present, and future of psychedelic patenting, History of Pharmacy and Pharmaceuticals, accepted manuscript (2023)
 
 Isenbarger, T.A., In re Kubin’s Reinvigorated Nonobviousness Standard for DNA Patents, Wisconsin Law Review 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
@@ -99,6 +100,8 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 ###Representative patents drafted and prosecuted  
 
+11,495,126 Systems And Methods For Driving Intelligence Allocation Between Vehicles And Highways    
+11,436,923 Proactive Sensing Systems And Methods For Intelligent Road Infrastructure Systems  
 11,390,882 Expression vector  
 11,224,584 Sleep apnea treatment  
 11,174,326 Polymerization photoinhibitor  
@@ -118,6 +121,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 9,944,652 Deuterated amlexanox  
 9,353,178 Stem cell factor inhibitor  
 9,931,412 Targeted theranostics
+D960385 Lateral Flow Assay Reader Apparatus
 
 ###Presentations
 
