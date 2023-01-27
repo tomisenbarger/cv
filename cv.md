@@ -103,18 +103,18 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 ###Representative patents drafted and prosecuted  
 
 11,529,109 Patient Positioning Apparatus  
-11,495,126 Systems And Methods For Driving Intelligence Allocation Between Vehicles And Highways  
-11,436,923 Proactive Sensing Systems And Methods For Intelligent Road Infrastructure Systems  
+11,495,126 Systems And Methods for Driving Intelligence Allocation Between Vehicles and Highways  
+11,436,923 Proactive Sensing Systems and Methods for Intelligent Road Infrastructure Systems  
 11,428,686 Membrane Assay Method  
 11,390,882 Expression Vector 
-11,359,005 Supramolecular High Affinity Protein-binding System For Purification Of Biomacromolecules  
-11,295,449 Three-dimensional Tracking Of A Target In A Body  
-11,229,614 Supramolecular Hydrogel Applications To The Carotid Bodies To Treat Hypertension And Sleep Apnea In Obesity  
+11,359,005 Supramolecular High Affinity Protein-binding System for Purification of Biomacromolecules  
+11,295,449 Three-dimensional Tracking of a Target in a Body  
+11,229,614 Supramolecular Hydrogel Applications to the Carotid Bodies to Treat Hypertension and Sleep Apnea in Obesity  
 11,224,584 Sleep Apnea Treatment  
 11,185,864 Sample Preparation Device  
-11,180,760 Identification Of Molecular Pathways And Methods Of Use Thereof For Treating Retinal Neurodegeneration And Other Neurodegenerative Disorders  
+11,180,760 Identification of Molecular Pathways and Methods of Use Thereof for Treating Retinal Neurodegeneration and Other Neurodegenerative Disorders  
 11,174,326 Polymerization Photoinhibitor  
-11,160,875 Therapeutic Nanofiber Hydrogels For Local Treatment Of Brain-related Diseases  
+11,160,875 Therapeutic Nanofiber Hydrogels for Local Treatment of Brain-related Diseases  
 10,918,673 Immunoisolation Device  
 10,851,423 SNP Arrays  
 10,751,324 Treatment of TNF-alpha Cytotoxicity  
