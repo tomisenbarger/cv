@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated January 26, 2023  
+Updated May 31, 2023  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -80,7 +80,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications
 
-Shams, S., Pratt, A.R., Li, S., & Isenbarger, T.A. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals.* Accepted manuscript (2023)
+Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65:1 (2023), in press
 
 Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6): 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
