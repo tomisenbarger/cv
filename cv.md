@@ -102,6 +102,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 ###Representative patents drafted and prosecuted  
 
+11,724,260 Microfluidic sensor  
 11,529,109 Patient Positioning Apparatus  
 11,495,126 Systems And Methods for Driving Intelligence Allocation Between Vehicles and Highways  
 11,436,923 Proactive Sensing Systems and Methods for Intelligent Road Infrastructure Systems  
