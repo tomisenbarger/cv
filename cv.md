@@ -103,7 +103,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 ###Representative patents drafted and prosecuted  
 
 11,773,182 Development Of New Monoclonal Antibodies Recognizing Human Prostate-specific Membrane Antigen (PSMA)  
-11,74,1834 Distributed Driving Systems And Methods For Automated Vehicles  
+11,741,834 Distributed Driving Systems And Methods For Automated Vehicles  
 11,735,035 Autonomous Vehicle And Cloud Control (AVCC) System With Roadside Unit (RSU) Network
 11,724,260 Microfluidic sensor  
 11,645,467 Training A System To Perform A Task With Multiple Specific Steps Given A General Natural Language Command  
