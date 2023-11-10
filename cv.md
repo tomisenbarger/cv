@@ -38,7 +38,7 @@ United States Patent and Trademark Office
 Senior Shareholder, 2022-present  
 Shareholder, 2018-2022  
 Associate Attorney, 2010–2018  
-[Casimir Jones Biography](https://www.casimirjones.com/attorney/thomas-a-isenbarger-j-d-ph-d/)
+[Casimir Jones Biography](https://www.casimirjones.com/team/thomas-a-isenbarger-j-d-ph-d/)
 
 **University of Wisconsin Law School Law & Entrepreneurship Clinic**  
 Member, 2009–2010
