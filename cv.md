@@ -104,7 +104,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 11,773,182 Development Of New Monoclonal Antibodies Recognizing Human Prostate-specific Membrane Antigen (PSMA)  
 11,741,834 Distributed Driving Systems And Methods For Automated Vehicles  
-11,735,035 Autonomous Vehicle And Cloud Control (AVCC) System With Roadside Unit (RSU) Network
+11,735,035 Autonomous Vehicle And Cloud Control (AVCC) System With Roadside Unit (RSU) Network  
 11,724,260 Microfluidic sensor  
 11,645,467 Training A System To Perform A Task With Multiple Specific Steps Given A General Natural Language Command  
 11,645,139 Software Testing  
@@ -113,7 +113,7 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 11,495,126 Systems And Methods for Driving Intelligence Allocation Between Vehicles and Highways  
 11,436,923 Proactive Sensing Systems and Methods for Intelligent Road Infrastructure Systems  
 11,428,686 Membrane Assay Method  
-11,390,882 Expression Vector 
+11,390,882 Expression Vector  
 11,359,005 Supramolecular High Affinity Protein-binding System for Purification of Biomacromolecules  
 11,295,449 Three-dimensional Tracking of a Target in a Body  
 11,229,614 Supramolecular Hydrogel Applications to the Carotid Bodies to Treat Hypertension and Sleep Apnea in Obesity  
