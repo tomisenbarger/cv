@@ -143,13 +143,13 @@ D960385 Lateral Flow Assay Reader Apparatus
 
 ###Presentations
 
-Temple University Beasley School of Law, April 2024, Live Online
+Temple University Beasley School of Law, April 2024, live online
 "Patenting Psychedelics"
 
-Agricultural Genome to Phenome Initiative Field Day, October 2022, Live online (recording available)  
+Agricultural Genome to Phenome Initiative Field Day, October 2022, live online (recording available)  
 "IP in Livestock and Plant Genetics & Breeding – Practical Patent Law for Scientists"
 
-Psychedelic Law Summit, September 2022, Live online (recording available)  
+Psychedelic Law Summit, September 2022, live online (recording available)  
 "Psychedelic Intellectual Property: Promoting Innovation and Ethically Protecting IP in the Psychedelics Space"
 
 Applied and Environmental Microbiology Gordon Conference, July 2005, New London, Connecticut  
