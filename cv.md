@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated November 10, 2023  
+Updated April 18, 2024  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -142,6 +142,9 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 D960385 Lateral Flow Assay Reader Apparatus
 
 ###Presentations
+
+Temple University Beasley School of Law, April 2024, Live Online
+"Patenting Psychedelics"
 
 Agricultural Genome to Phenome Initiative Field Day, October 2022, Live online (recording available)  
 "IP in Livestock and Plant Genetics & Breeding – Practical Patent Law for Scientists"
