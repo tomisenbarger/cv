@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated April 18, 2024  
+Updated April 29, 2024  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -79,6 +79,8 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 
 ###Publications
+
+Shams, S., Li, S., & Isenbarger, T.A. Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy. Abstract accepted for The Petrie-Flom Center 2024 Annual Conference: Law and Policy of Psychedelic Medicine, The Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School. Manuscript submitted.
 
 Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117-130 (2023) [HOPP](https://hopp.uwpress.org/content/65/1/117/)
 
