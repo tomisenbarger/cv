@@ -80,25 +80,25 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications
 
-Shams, S., Li, S., & Isenbarger, T.A. Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy. Abstract accepted for The Petrie-Flom Center 2024 Annual Conference: Law and Policy of Psychedelic Medicine, The Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School. Manuscript submitted.
+Shams, S., Li, S., & Isenbarger, T.A. Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy. Abstract accepted for The Petrie-Flom Center 2024 Annual Conference: Law and Policy of Psychedelic Medicine, The Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics at Harvard Law School. Manuscript submitted.  
 
-Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117-130 (2023) [HOPP](https://hopp.uwpress.org/content/65/1/117/)
+Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117-130 (2023) [HOPP](https://hopp.uwpress.org/content/65/1/117/)  
 
-Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6), 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
+Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6), 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)  
 
-Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. *PNAS* 106(28), 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
+Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. *PNAS* 106(28), 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)  
 
-Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets. *Origins of Life and Evolution of Biospheres* 38(6), 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)
+Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets. *Origins of Life and Evolution of Biospheres* 38(6), 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)  
 
-Isenbarger, T.A., Finney, M., Handelsman, J., & Ruvkun, G. Miniprimer PCR, a New Lens for Viewing the Microbial World. *Appl. Environ. Microbiol.* 74(3), 745–752 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083877/) 
+Isenbarger, T.A., Finney, M., Handelsman, J., & Ruvkun, G. Miniprimer PCR, a New Lens for Viewing the Microbial World. *Appl. Environ. Microbiol.* 74(3), 745–752 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083877/)  
 
-Isenbarger, T.A. The Bacteriorhodopsin Lattice as a Model for Quantifying Interactions that Stabilize Membrane Protein Complexes. Ph.D. dissertation (2001).
+Isenbarger, T.A. The Bacteriorhodopsin Lattice as a Model for Quantifying Interactions that Stabilize Membrane Protein Complexes. Ph.D. dissertation (2001).  
 
-Isenbarger, T.A., & Krebs, M.P. Thermodynamic Stability of the Bacteriorhodopsin Lattice As Measured by Lipid Dilution. *Biochemistry* 40(39), 11923–11931 (2001). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11570893/) 
+Isenbarger, T.A., & Krebs, M.P. Thermodynamic Stability of the Bacteriorhodopsin Lattice As Measured by Lipid Dilution. *Biochemistry* 40(39), 11923–11931 (2001). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11570893/)  
 
 Ng, W.V., Kennedy, S.P., . . ., Isenbarger, T.A., . . ., Hood, L., & DasSarma, S. Genome Sequence of Halobacterium species NRC-1. *PNAS* 97(22), 11677–12388 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11016950/)  
 
-Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assembly. *Biochim. Biophys. Acta* 1460(1), 15–26 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10984587/) 
+Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assembly. *Biochim. Biophys. Acta* 1460(1), 15–26 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10984587/)  
 
 Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice. *Biochemistry* 38(28), 9023–9030 (1999). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10413475/)  
 
