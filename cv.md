@@ -80,7 +80,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications
 
-Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (G. Cohen, et al., eds.), Cambridge University Press (2026).
+Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (G. Cohen et al., eds.), Cambridge University Press (2026).
 
 Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117-130 (2023) [HOPP](https://hopp.uwpress.org/content/65/1/117/)  
 
