@@ -80,7 +80,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications
 
-Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. "Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization", in preparation.  
+Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. "Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization" (November 12, 2024). [Download](https://www.portasophia.org/files/claims-charts/Meccia-et-al-2024-5-MeO-DMT.pdf)  
 
 Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (G. Cohen et al., eds.), Cambridge University Press (2026).  
 
