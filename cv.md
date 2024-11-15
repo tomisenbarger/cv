@@ -106,6 +106,12 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 ###Representative patents drafted and prosecuted  
 
+12,042,313 Radiation Protection  
+12,018,297 Nuclease-mediated Nucleic Acid Modification  
+12,016,285 Higher-yielding Proso  
+11,918,397 Multi-axis Medical Imaging  
+11,841,468 Photon Sensor  
+11,819,516 Immunotherapy  
 11,773,182 Development Of New Monoclonal Antibodies Recognizing Human Prostate-specific Membrane Antigen (PSMA)  
 11,741,834 Distributed Driving Systems And Methods For Automated Vehicles  
 11,735,035 Autonomous Vehicle And Cloud Control (AVCC) System With Roadside Unit (RSU) Network  
